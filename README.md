@@ -122,7 +122,7 @@ WorldEvent/
 - **Add new event classes** in `/event/`!  
   Just extend `BaseEvent` and register your class in the `EventManager`.
 - **Messages**: Use placeholders like `{event}`, `{prefix}`, `{coords}` in `messages.yml`.
-- **Vault** is used for permissions, but the plugin gracefully falls back to OP if Vault isn't present.
+- **Vault** is used for permissions.
 
 ---
 
