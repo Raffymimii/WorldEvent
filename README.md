@@ -147,8 +147,12 @@ If you enjoy this plugin, star ⭐ the repo or buy me a [coffee](https://paypal.
 *Let the chaos begin!* 🌩️🎉
 
 
-Eccola qui, pronta da inserire subito sotto la sezione inglese:
 
+
+---
+---
+---
+---
 ---
 
 ## 🇮🇹 Descrizione in Italiano
