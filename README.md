@@ -36,7 +36,7 @@ Perfect for community servers, streaming, or any world that needs ✨spontaneity
      ```bash
      mvn clean package
      ```
-   - Or download from [releases](#) (if available).
+   - Or download from [releases](#).
 
 2. **Put the generated `WorldEvent-xxx.jar` in your server’s `/plugins` directory.**
 
