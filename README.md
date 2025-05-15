@@ -128,7 +128,8 @@ WorldEvent/
 
 ## 🙏 Credits
 
-**Plugin by:** [Raffymimi](https://github.com/raffymimi)  
+**Plugin by:** [Raffymimii](https://github.com/raffymimii)  
+**Portfolio:** https://portfolio.raffymimi.it/
 Inspired by the beautiful chaos of Minecraft events!
 
 _Contributions, bug reports, and suggestions welcome!_
@@ -137,7 +138,7 @@ _Contributions, bug reports, and suggestions welcome!_
 
 ## ❤️ Support
 
-If you enjoy this plugin, star ⭐ the repo or buy me a coffee!
+If you enjoy this plugin, star ⭐ the repo or buy me a [coffee](https://paypal.me/raffymimi?country.x=IT&locale.x=it_IT)!
 
 ---
 
