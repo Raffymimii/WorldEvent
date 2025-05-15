@@ -1,0 +1,8 @@
+prefix: "&b[WorldEvents]&r"
+event_start: "{prefix} &aEvent started: &e{event}"
+event_end: "{prefix} &cThe event &e{event} &chas ended!"
+event_forced: "{prefix} &cEvent &e{event} &cwas manually forced."
+no_permission: "{prefix} &cYou do not have permission to do this!"
+event_not_found: "{prefix} &cEvent &e{event} &cnot found or not enabled."
+treasure_announce: "{prefix} &6A treasure has appeared at coordinates: &e{coords}"
+loot_rain_found: "{prefix} &aSomeone found a chest from the sky!"

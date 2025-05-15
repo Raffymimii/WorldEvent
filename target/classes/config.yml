@@ -1,0 +1,7 @@
+event-interval-minutes: 10
+event-duration-minutes: 3
+enabled-events:
+  magic_storm: true
+  eternal_night: true
+  loot_rain: true
+  treasure_hunt: true

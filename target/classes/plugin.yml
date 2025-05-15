@@ -1,0 +1,15 @@
+name: WorldEvents
+version: '1.0.0'
+main: com.raffymimi.worldEvent.WorldEvent
+api-version: '1.21'
+author: "Raffymimi"
+description: "Plugin introducing dynamic and random events in the world!"
+depend: [Vault]
+commands:
+  worldevents:
+    usage: /<command> start <event>
+    description: Admin command to manage world events
+permissions:
+  worldevents.admin:
+    description: Permission to manage and manually trigger events.
+    default: op
